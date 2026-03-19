@@ -1,1 +1,1 @@
-This repository contains the source code and documentation for the Ethnotech GenAI training, developed during a specialized training focusing on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). The project aims to bridge the gap between academic curriculum and AI-driven industrial applications.
+This repository contains the source code and documentation for the Ethnotech GenAI training, developed during a specialized training focusing on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). 
